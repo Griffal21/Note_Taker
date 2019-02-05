@@ -9,8 +9,8 @@ else {
   db = mysql.createConnection({
     host: "localhost",
     port: 3306,
-    user: "root" // or your username
-    password: "<YOUR PASSWORD HERE>",
+    user: "root", // or your username
+    password: "Alphalima2168",
     database: "notetaker_db"
   });
 }
